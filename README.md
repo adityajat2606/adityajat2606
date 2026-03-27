@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityajat2606
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analysis and web development 
 - 🌱 I’m currently learning SQL at Advance level
 - 💞️ I’m looking for a Job
 - 😄 Pronouns: He/Him
