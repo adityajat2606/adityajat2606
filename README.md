@@ -50,7 +50,7 @@ const aditya = {
 - ♿ Accessibility-first layout decisions
 - ⚡ Optimised for real-world clinical usability
 
-**Stack:** `React` `Tailwind CSS` `Next.js` 'Firebase'
+**Stack:** `React` `Tailwind CSS` `Next.js` `Firebase`
 
 </td>
 <td width="50%">
@@ -69,8 +69,7 @@ const aditya = {
 📈 Business Metrics & Dashboarding
 🧹 ETL-style Data Transformation
 
-Tech Stack:
-MySQL PostgreSQL SQL Excel
+**Stack** `MySQL` `PostgreSQL` `SQL Excel`
 
 🌐 Frontend Development
 ⚡ Modern UI Development (Next.js, React)
@@ -79,8 +78,7 @@ MySQL PostgreSQL SQL Excel
 ✨ Premium UI/UX (Glassmorphism, clean design)
 🚀 Performance-focused frontend
 
-Tech Stack:
-HTML CSS JavaScript React Next.js Tailwind CSS
+**Stack** `HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS`
 
 🛠 Tools & Workflow
 🔧 Version Control & Collaboration (Git, GitHub)
@@ -88,8 +86,7 @@ HTML CSS JavaScript React Next.js Tailwind CSS
 🧑‍💻 Development Environment (VS Code)
 📦 Clean project structure & frontend architecture
 
-Tools:
-Git GitHub Vercel VS Code
+**Tools** `Git` `GitHub` `Vercel` `VS Code`
 
 </td>
 </tr>
