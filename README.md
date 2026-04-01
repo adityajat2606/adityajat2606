@@ -81,7 +81,7 @@ A healthcare-focused platform built to simplify appointment scheduling through a
 
 React, Next.js, Tailwind CSS, Firebase
 
-More work: [GitHub Profile]([https://github.com/adityajat2606](https://github.com/adityajat2606?tab=repositories))
+More work: [GitHub Profile]([[(https://github.com/adityajat2606?tab=repositories)])
 
 ---
 
