@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditya%20Choudhary&fontSize=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Developer%20•%20Data%20Analyst%20•%20Open%20to%20Work&descSize=16&descAlignY=62&descColor=a78bfa" width="100%"/>
-
+<img 
 font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Premium+UI+Experiences;Advanced+SQL+%26+Data+Analytics;Next.js+%7C+React+%7C+Tailwind;Open+to+Work+—+Let's+Build!" />
 
 <br/>
