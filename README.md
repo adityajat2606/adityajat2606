@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Aditya%20Choudhary&fontSize=46&fontAlignY=42&fontColor=ffffff&desc=Frontend%20Developer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Open%20to%20Work&descSize=16&descAlignY=66&descColor=a78bfa&animation=twinkling&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditya%20Choudhary&fontSize=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Developer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Open%20to%20Work&descSize=16&descAlignY=62&descColor=a78bfa" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Premium+UI+Experiences+%F0%9F%8E%AF;Advanced+SQL+%26+Data+Analytics+%F0%9F%93%8A;Next.js+%7C+React+%7C+Tailwind+CSS+%F0%9F%9A%80;Open+to+Work+%E2%80%94+Let%27s+Build+Something+Great!" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 
 ```typescript
 const aditya = {
-  role:       ["Frontend Developer", "Data Analyst"],
+  role:       ["Software Developer", "Data Analyst"],
   stack:      ["Next.js", "React", "Tailwind CSS", "TypeScript"],
   data:       ["SQL (Advanced)", "Data Cleaning", "Analytics"],
   strengths:  ["Premium UI", "Performance", "Real-World Problem Solving"],
@@ -42,15 +42,15 @@ const aditya = {
 <td width="50%">
 
 ### 🏥 Online Appointment Booking System
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adityajat2606&repo=KalpeshHospitalAlwar_Frontend&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/adityajat2606/KalpeshHospitalAlwar_Frontend)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=adityajat2606&repo=KalpeshHospitalAlwar_Frontend&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](Kalpeshhospital.com)
 
 **What I delivered:**
-- 📐 Fully responsive hospital management UI
+- 📐 Full-stack hospital website with real-time appointment booking using React.js, Node.js, and Firebase
 - 🧱 Scalable component architecture
 - ♿ Accessibility-first layout decisions
 - ⚡ Optimised for real-world clinical usability
 
-**Stack:** `React` `Tailwind CSS` `Next.js`
+**Stack:** `React` `Tailwind CSS` `Next.js` 'Firebase'
 
 </td>
 <td width="50%">
@@ -63,13 +63,33 @@ const aditya = {
 
 <br/>
 
-**Domains Explored:**
-- 🗄️ Advanced SQL query optimization
-- 🔍 Data cleaning pipelines
-- 📈 Business metric dashboards
-- 🧹 ETL-style data transformation
+📊 Data & Analytics           
+🗄️ Advanced SQL Query Optimization
+🔍 Data Cleaning Pipelines
+📈 Business Metrics & Dashboarding
+🧹 ETL-style Data Transformation
 
-**Stack:** `MySQL` `PostgreSQL` `Excel` `SQL`
+Tech Stack:
+MySQL PostgreSQL SQL Excel
+
+🌐 Frontend Development
+⚡ Modern UI Development (Next.js, React)
+🎨 Styling & Design Systems (Tailwind CSS)
+📱 Fully Responsive Layouts
+✨ Premium UI/UX (Glassmorphism, clean design)
+🚀 Performance-focused frontend
+
+Tech Stack:
+HTML CSS JavaScript React Next.js Tailwind CSS
+
+🛠 Tools & Workflow
+🔧 Version Control & Collaboration (Git, GitHub)
+⚡ Deployment & Hosting (Vercel)
+🧑‍💻 Development Environment (VS Code)
+📦 Clean project structure & frontend architecture
+
+Tools:
+Git GitHub Vercel VS Code
 
 </td>
 </tr>
@@ -143,12 +163,12 @@ const aditya = {
 
 | ✅ Strength |
 |---|
-| **UI + Data Combo** — rare skill set in a single hire |
-| **Real Projects** — appointment booking system shipped, not tutorial work |
-| **Clean Code** — production-ready, scalable, maintainable |
-| **Fast Learner** — actively mastering advanced SQL right now |
-| **Design + Logic** — understands both UX and backend data needs |
-| **Immediate Availability** — zero notice period, day one ready |
+| **UI + Data Combo** |
+| **Real Projects** |
+| **Clean Code** |
+| **Fast Learner** |
+| **Design + Logic** |
+| **Immediate Availability** |
 
 </div>
 
