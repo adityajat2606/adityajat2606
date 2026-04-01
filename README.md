@@ -69,7 +69,7 @@ const aditya = {
 📈 Business Metrics & Dashboarding
 🧹 ETL-style Data Transformation
 
-**Stack** `MySQL` `PostgreSQL` `SQL Excel`
+**Stack:** `MySQL` `PostgreSQL` `SQL Excel`
 
 🌐 Frontend Development
 ⚡ Modern UI Development (Next.js, React)
@@ -78,7 +78,7 @@ const aditya = {
 ✨ Premium UI/UX (Glassmorphism, clean design)
 🚀 Performance-focused frontend
 
-**Stack** `HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS`
+**Stack:** `HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS`
 
 🛠 Tools & Workflow
 🔧 Version Control & Collaboration (Git, GitHub)
@@ -86,7 +86,7 @@ const aditya = {
 🧑‍💻 Development Environment (VS Code)
 📦 Clean project structure & frontend architecture
 
-**Tools** `Git` `GitHub` `Vercel` `VS Code`
+**Tools:** `Git` `GitHub` `Vercel` `VS Code`
 
 </td>
 </tr>
