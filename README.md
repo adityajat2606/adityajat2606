@@ -63,7 +63,8 @@ const aditya = {
 
 <br/>
 
-📊 Data & Analytics           
+📊 Data & Analytics
+
 🗄️ Advanced SQL Query Optimization
 🔍 Data Cleaning Pipelines
 📈 Business Metrics & Dashboarding
@@ -72,6 +73,7 @@ const aditya = {
 **Stack:** `MySQL` `PostgreSQL` `SQL Excel`
 
 🌐 Frontend Development
+
 ⚡ Modern UI Development (Next.js, React)
 🎨 Styling & Design Systems (Tailwind CSS)
 📱 Fully Responsive Layouts
@@ -81,6 +83,7 @@ const aditya = {
 **Stack:** `HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS`
 
 🛠 Tools & Workflow
+
 🔧 Version Control & Collaboration (Git, GitHub)
 ⚡ Deployment & Hosting (Vercel)
 🧑‍💻 Development Environment (VS Code)
