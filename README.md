@@ -154,22 +154,6 @@ open_to:   Frontend / Full-Stack / Data Analyst roles
 
 </div>
 
-### ⏱️ Coding Rhythm — WakaTime
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=adityajat2606&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb&icon_color=8b5cf6&langs_count=8&custom_title=Weekly%20Coding%20Breakdown" alt="WakaTime weekly coding stats" />
-
-</div>
-
-### 🏆 Trophy Cabinet
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityajat2606&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
 <!-- ========================= SNAKE ========================= -->
@@ -189,14 +173,6 @@ open_to:   Frontend / Full-Stack / Data Analyst roles
 
 <!-- ========================= PROJECTS ========================= -->
 ## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28" /> Signature Work
-
-<div align="center">
-
-<a href="https://github.com/adityajat2606/MyWeb">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=adityajat2606&repo=MyWeb&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=8b5cf6&text_color=e5e7eb" alt="MyWeb repository card" />
-</a>
-
-</div>
 
 ### 🏥 Online Appointment Booking System
 
@@ -275,23 +251,6 @@ graph LR
 - 🌱 Expanding from strong frontend foundations into broader **full-stack capability**
 - 📚 Strengthening **analytics and SQL depth** to pair UI quality with decision intelligence
 - 💼 Looking to contribute to teams that value **craft, ownership, and meaningful impact**
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
-
-<!-- ========================= SPOTIFY ========================= -->
-## 🎧 Now Playing
-
-<div align="center">
-
-**Code hits different with the right soundtrack.**
-
-<br /><br />
-
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_UID">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=8b5cf6&bar_color_cover=false" alt="Spotify now playing" />
-</a>
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
