@@ -3,6 +3,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Aditya%20Choudhary&fontSize=52&fontAlignY=36&fontColor=ffffff&desc=Frontend%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Product%20Minded&descSize=18&descAlignY=56&descColor=c4b5fd&animation=fadeIn" width="100%" alt="Aditya Choudhary — header banner" />
 
+<img src="assets/avatar-reveal.svg" width="270" alt="Aditya Choudhary — avatar generating animation" />
+
+<br />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C4B5FD&center=true&vCenter=true&width=920&height=60&lines=Crafting+premium+digital+experiences+with+clarity+and+speed;Designing+interfaces+that+feel+modern%2C+refined%2C+and+intentional;Blending+frontend+engineering+with+data-driven+thinking;Building+work+that+looks+sharp+and+performs+even+better" alt="Typing animation" />
 
 <br />
