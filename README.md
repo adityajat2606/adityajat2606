@@ -137,12 +137,7 @@ open_to:   Frontend / Full-Stack / Data Analyst roles
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityajat2606&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=8b5cf6&text_color=e5e7eb&ring_color=8b5cf6" alt="GitHub stats" />
-<img width="41%" src="https://streak-stats.demolab.com?user=adityajat2606&hide_border=true&background=0d1117&stroke=302b63&ring=8b5cf6&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=e5e7eb&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
-
-<br />
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajat2606&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e5e7eb" alt="Top languages" />
+<img width="60%" src="https://streak-stats.demolab.com?user=adityajat2606&hide_border=true&background=0d1117&stroke=302b63&ring=8b5cf6&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=e5e7eb&dates=9ca3af&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 
 </div>
 
